@@ -1,3 +1,6 @@
 [submodule "lw1/2048-game"]
 	path = lw1/2048-game
 	url = git@github.com:hyth32/2048-game.git
+[submodule "lw2/2048-game"]
+	path = lw2/2048-game
+	url = git@github.com:hyth32/2048-game.git
